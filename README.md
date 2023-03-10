@@ -7,6 +7,7 @@ Looking for the BadKB files you saw in my video? Here they are. Only for educati
 Add all these files/folders to `/badkb/` on your Flipper Zero, and access them using the BadKB application.
 
 Sick video demo: https://youtu.be/lh99ssUy6FE
+
 Complete guide: https://thecomputernoob.com/bluetooth-badusb-attacks-flipper-zero
 
 ## Disclaimer
