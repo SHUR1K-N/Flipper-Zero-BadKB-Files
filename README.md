@@ -10,6 +10,9 @@ Sick video demo: https://youtu.be/lh99ssUy6FE
 
 Complete guide: https://thecomputernoob.com/bluetooth-badusb-attacks-flipper-zero
 
+## Warning
+Please *always* read scripts like these from top to bottom and ensure you understand every line before you go and execute them on your machine on anyone else's. It would only take a single shell command to exfiltrate data or harm your system irreversibly.
+
 ## Disclaimer
 * None of these scripts were created by me. I have collected these from various repositories, and may have made some modifications for the sake of optimization/convenience to some of them
 * If you do not know what you are doing with these files, you should probably not try
