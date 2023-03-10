@@ -1,0 +1,7 @@
+GUI r
+DELAY 400
+STRING powershell
+ENTER
+DELAY 1400
+STRING Invoke-WebRequest -Uri https://eo7bz04mngeu7gg.m.pipedream.net/flipper_ping -Method GET;exit
+ENTER
