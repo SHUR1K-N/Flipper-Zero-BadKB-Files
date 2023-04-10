@@ -3,8 +3,9 @@
 ## Description
 Looking for the BadKB files you saw in my video? Here they are. Only for educational purposes, of course.
 
-## Usage
-Add all these files/folders to `/badkb/` on your Flipper Zero, and access them using the BadKB application.
+## Usage (Xtreme Firmware)
+* **For Xtreme Firmware:** Add all these files/folders to `/badkb/` on your Flipper Zero, and access them using the BadKB application.
+* **For other firmwares:** Add all these files/folders to `/badusb/` on your Flipper Zero, and access them using the BadUSB application.
 
 Sick video demo: https://youtu.be/lh99ssUy6FE
 
