@@ -7,9 +7,9 @@ Looking for the BadKB files you saw in my video? Here they are. Only for educati
 ### For Xtreme Firmware:
 Add all these files/folders to `/badkb/` on your Flipper Zero, and access them using the BadKB application.
 
-Sick video demo: https://youtu.be/lh99ssUy6FE
+## Sick Video Demo
 
-Complete guide: https://thecomputernoob.com/bluetooth-badusb-attacks-flipper-zero
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lh99ssUy6FE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lh99ssUy6FE)
 
 ### For other firmwares:
 Add all these files/folders to `/badusb/` on your Flipper Zero, and access them using the BadUSB application.
